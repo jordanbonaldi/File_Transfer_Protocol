@@ -1,0 +1,2 @@
+# File_Transfer_Protocol
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7a95bf9b93a547bf8c648d640d15ba16)](https://app.codacy.com/app/jordanbonaldi/File_Transfer_Protocol?utm_source=github.com&utm_medium=referral&utm_content=jordanbonaldi/File_Transfer_Protocol&utm_campaign=Badge_Grade_Dashboard)
